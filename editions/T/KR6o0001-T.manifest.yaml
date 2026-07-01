@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6o0001/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0001/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明正理門論本
+  identifiers:
+    krp: KR6o0001
+    cbeta: T32n1628
+    cbeta_old_id: T32n1628
+    authorityid: CA0003778
+    json_key: T1628
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1628.xml
+    old_id: T32n1628
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0001_000-T.yaml, hash: 'sha256:8b9920d4bf401387fe1053e534c59c08985faf5f5c0d4860a6f3f8ee6ed3a445'}
+  - {seq: 1, filename: KR6o0001_001-T.yaml, hash: 'sha256:1245bb55f02d9ec1c96779baadf4a25f6a276682443ca4b1ecf636d41507d1c2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0001_000-T.markers.yaml, hash: 'sha256:bb55d0c0940edf626fc1905ee641ddb944a5278adc607113554466baa3b4ac3d'}
+  - {seq: 1, role: markers, filename: assets/KR6o0001_001-T.markers.yaml, hash: 'sha256:788d1af3933cd8a2f3964eebfc1e7feec08165b788bbeee4648e2e0cb6f994f9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0001_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6482
+  label: 因明正理門論本
+  type: juan
+  level: 1
+hash: sha256:c864a8d47c99728139a4ba9dc0b6cb2e4e3bfc91d8407d8c90847cf0acf1faaa

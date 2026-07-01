@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0001/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明正理門論本
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1628.xml
+    old_id: T32n1628
+hash: sha256:8b9920d4bf401387fe1053e534c59c08985faf5f5c0d4860a6f3f8ee6ed3a445
